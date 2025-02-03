@@ -7,7 +7,7 @@ Por Gabriel Pierobon © 2025
 El libro se encuentra disponible para descarga gratuita en este repositorio:
 - Versión PDF: [`latest/pdf`](latest/pdf)
 - Versión comprimida en 7z: [`latest/compressed`](latest/compressed)
-- Link alternativo en [Mediafire](https://www.mediafire.com/file/7khtmd0m39y3q7i/inteligencia_artificial_3_pasos_v1.0.0.pdf/file)
+- Link alternativo en [Mediafire](https://www.mediafire.com/file/xxkrp3zhby1cynf/inteligencia_artificial_3_pasos_v1.0.0.pdf/file))
 
 **Versión actual:** v1.0.0 (Febrero 2025)
 
