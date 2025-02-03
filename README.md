@@ -9,6 +9,8 @@ El libro se encuentra disponible para descarga gratuita en este repositorio:
 
 **Versión actual:** v1.0.0 (Febrero 2025)
 
+![Título del libro](/assets/cover_v1.0.0_small.jpg) 
+
 ## 📚 Acerca del Libro
 
 Este libro es una guía práctica y accesible diseñada para ayudarte a adentrarte en el mundo de la Inteligencia Artificial. A diferencia de otros recursos técnicos, este libro se centra en proporcionar una base sólida y comprensible para cualquier persona interesada en la IA, independientemente de su formación previa.
