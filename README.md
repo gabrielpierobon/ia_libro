@@ -2,7 +2,7 @@
 ## Los 3 pasos para formarte desde cero y transformar tu futuro
 
 Por Gabriel Pierobon © 2025
-- [Lectura online: Internet Archive](https://archive.org/details/inteligencia_artificial_3_pasos_v1.0.0)
+- [Lectura online: Internet Archive](https://archive.org/details/inteligencia_artificial_3_pasos_v1.0.0_202502)
 
 El libro se encuentra disponible para descarga gratuita en este repositorio:
 - Versión PDF: [`latest/pdf`](latest/pdf)
