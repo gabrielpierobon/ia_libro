@@ -9,7 +9,7 @@ El libro se encuentra disponible para descarga gratuita en este repositorio:
 
 **Versión actual:** v1.0.0 (Febrero 2025)
 
-![Título del libro](/assets/cover_v1.0.0_small.jpg) 
+<img src="/assets/cover_v1.0.0_book.png" alt="Título del libro" width="600"/>
 
 ## 📚 Acerca del Libro
 
