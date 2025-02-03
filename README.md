@@ -1,4 +1,5 @@
-# Inteligencia Artificial: Los 3 pasos para formarte desde cero y transformar tu futuro
+# Inteligencia Artificial: 
+## Los 3 pasos para formarte desde cero y transformar tu futuro
 
 Por Gabriel Pierobon © 2025
 
